@@ -68,14 +68,14 @@ Se preferir executar localmente:
 Clone este repositório.
 Crie um ambiente virtual: python -m venv venv
 Ative o ambiente: source venv/bin/activate (Linux/Mac) ou venv\Scripts\activate (Windows)
-Instale as dependências: pip install pandas matplotlib seaborn numpy ipywidgets folium jupyterlab
+Instale as dependências: 
+pip install pandas matplotlib seaborn numpy ipywidgets folium jupyterlab
+
 Inicie o Jupyter Lab: jupyter lab
 Abra e execute o notebook.
 
 
-caption1 | caption2
-:-: | :-:
-<video src='desafio.mp4' width=360/>
+<video src='Desafio.mp4' width=360/>
 
 
 
@@ -83,6 +83,7 @@ caption1 | caption2
 Luiz Fernando Barbosa
 [![Blog Badge](https://img.shields.io/badge/Blog-ProvadeConceito-black)](http://provadeconceito.wordpress.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-fernando-barbosa-51a78938/)](https://www.linkedin.com/in/luiz-fernando-barbosa-51a78938/)
+
 
 
 
