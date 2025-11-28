@@ -74,7 +74,7 @@ pip install pandas matplotlib seaborn numpy ipywidgets folium jupyterlab
 Inicie o Jupyter Lab: jupyter lab
 Abra e execute o notebook.
 
-# 🔖 Video Explicativo
+# 🔖 Video Explicativo da análise
 <br>
 <a href="https://www.youtube.com/watch?v=kafBryN-_Lk" target="_blank">
   <img 
@@ -96,6 +96,7 @@ Abra e execute o notebook.
 Luiz Fernando Barbosa
 [![Blog Badge](https://img.shields.io/badge/Blog-ProvadeConceito-black)](http://provadeconceito.wordpress.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-fernando-barbosa-51a78938/)](https://www.linkedin.com/in/luiz-fernando-barbosa-51a78938/)
+
 
 
 
