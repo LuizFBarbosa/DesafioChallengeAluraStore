@@ -29,7 +29,7 @@ Este projeto utiliza a ciência de dados e técnicas de storytelling para respon
 Através de uma análise exploratória detalhada e visualizações interativas, transformamos dados brutos em uma narrativa clara e acionável, permitindo uma decisão baseada em evidências e não em intuição.
 
 
-#🎯 Propósito da Análise
+# 🎯 Propósito da Análise
 O Sr. João, proprietário de quatro lojas de varejo, enfrentava o dilema de qual unidade vender para simplificar suas operações. O objetivo principal desta análise foi utilizar a ciência de dados para identificar qual das quatro lojas apresentava o pior desempenho de forma consistente, tornando-a a candidata ideal para a venda.
 
 Para isso, a análise foi estruturada como uma narrativa, investigando as seguintes questões-chave:
@@ -48,7 +48,7 @@ Existe um padrão geográfico nas vendas? (Análise de localização dos cliente
 </p>
 
 
-#🚀 Como Executar o Notebook
+# 🚀 Como Executar o Notebook
 Siga os passos abaixo para reproduzir a análise em seu próprio ambiente.
 
 Pré-requisitos
@@ -79,12 +79,13 @@ Instale as dependências: pip install pandas matplotlib seaborn numpy ipywidgets
 Inicie o Jupyter Lab: jupyter lab
 Abra e execute o notebook.
 
-[![Desafio Alura Store] https://img.youtube.com/vi/kafBryN-_Lk/0.jpg)](https://www.youtube.com/watch?v=kafBryN-_Lk)
+[![Desafio Alura Store]](https://www.youtube.com/watch?v=kafBryN-_Lk)
 
 👤 Autor
 Luiz Fernando Barbosa
 [![Blog Badge](https://img.shields.io/badge/Blog-ProvadeConceito-black)](http://provadeconceito.wordpress.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-fernando-barbosa-51a78938/)](https://www.linkedin.com/in/luiz-fernando-barbosa-51a78938/)
+
 
 
 
