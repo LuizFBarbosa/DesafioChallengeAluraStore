@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="ENEM 2019" src="imagens/challenge.png" />
+    <img alt="Happy" title="Challenge Alura Store" src="imagens/challenge.png" />
 </h1>
 
 
@@ -74,15 +74,16 @@ pip install pandas matplotlib seaborn numpy ipywidgets folium jupyterlab
 Inicie o Jupyter Lab: jupyter lab
 Abra e execute o notebook.
 
-
-<video src='Desafio.mp4' width=360/>
-
+<a href="https://www.youtube.com/watch?v=kafBryN-_Lk">
+  <img src="imagens/videoDesafio.png" alt="Desafio Alura Store" width="50%">
+</a>
 
 
 👤 Autor
 Luiz Fernando Barbosa
 [![Blog Badge](https://img.shields.io/badge/Blog-ProvadeConceito-black)](http://provadeconceito.wordpress.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-fernando-barbosa-51a78938/)](https://www.linkedin.com/in/luiz-fernando-barbosa-51a78938/)
+
 
 
 
