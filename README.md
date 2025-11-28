@@ -37,7 +37,7 @@ Existe um padrão geográfico nas vendas? (Análise de localização dos cliente
 
 
 <p align="center">
-  <img alt="Happy" src="imagens/infografico-lojas.png" width="100%">
+  <img alt="info" src="imagens/infografico-lojas.png" width="100%">
 </p>
 
 
@@ -74,15 +74,28 @@ pip install pandas matplotlib seaborn numpy ipywidgets folium jupyterlab
 Inicie o Jupyter Lab: jupyter lab
 Abra e execute o notebook.
 
-<a href="https://www.youtube.com/watch?v=kafBryN-_Lk">
-  <img src="imagens/videoDesafio.png" alt="Desafio Alura Store" width="50%">
-</a>
 
+<a href="https://www.youtube.com/watch?v=kafBryN-_Lk" target="_blank">
+  <img 
+    src="imagens/videoDesafio.png" 
+    alt="Desafio Alura Store" 
+    width="50%" 
+    style="
+      border: 3px solid #ccc;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    "
+    onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.5)'"
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.3)'"
+  />
+</a>
 
 👤 Autor
 Luiz Fernando Barbosa
 [![Blog Badge](https://img.shields.io/badge/Blog-ProvadeConceito-black)](http://provadeconceito.wordpress.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-fernando-barbosa-51a78938/)](https://www.linkedin.com/in/luiz-fernando-barbosa-51a78938/)
+
 
 
 
