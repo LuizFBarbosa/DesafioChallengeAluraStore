@@ -5,9 +5,9 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>
   <a href="#-projeto">Projeto</a>
-  <a href="#-proposito">Propósito</a>
+  <a href="#-proposito">Propósito da Análise</a>
   <a href="#-resultado">Resultado</a> 
-  <a href="#Como Executar o Notebook">Executando</a> 
+  <a href="#-Executar">Como Executar o Notebook</a> 
 </p>
 
 <br>
@@ -85,6 +85,7 @@ Abra e execute o notebook.
 Luiz Fernando Barbosa
 [![Blog Badge](https://img.shields.io/badge/Blog-ProvadeConceito-black)](http://provadeconceito.wordpress.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-fernando-barbosa-51a78938/)](https://www.linkedin.com/in/luiz-fernando-barbosa-51a78938/)
+
 
 
 
