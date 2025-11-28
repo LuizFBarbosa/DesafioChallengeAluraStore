@@ -72,12 +72,18 @@ Instale as dependências: pip install pandas matplotlib seaborn numpy ipywidgets
 Inicie o Jupyter Lab: jupyter lab
 Abra e execute o notebook.
 
-[![Desafio Alura Store]](https://www.youtube.com/watch?v=kafBryN-_Lk)
+
+caption1 | caption2
+:-: | :-:
+<video src='desafio.mp4' width=360/>
+
+
 
 👤 Autor
 Luiz Fernando Barbosa
 [![Blog Badge](https://img.shields.io/badge/Blog-ProvadeConceito-black)](http://provadeconceito.wordpress.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-fernando-barbosa-51a78938/)](https://www.linkedin.com/in/luiz-fernando-barbosa-51a78938/)
+
 
 
 
